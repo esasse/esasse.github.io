@@ -7,3 +7,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ericksasse.com.br" # the base hostname & protocol for your site
 twitter_username: esasse
 github_username:  esasse
+highlighter: pygments
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Erick Sasse"
