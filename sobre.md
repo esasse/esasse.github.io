@@ -2,6 +2,7 @@
 title: Sobre
 author: Erick Sasse
 layout: page
+permalink: /sobre/
 ---
 [<img src="http://farm1.staticflickr.com/2/1683481_8bb2a4856e_m.jpg" width="240" height="160" alt="Baiacu Assustado" />][1]
 
