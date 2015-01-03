@@ -3,13 +3,8 @@ title: 'TPodcast 5 &#8211; O Mês dos Eventos'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-05-o-mes-dos-eventos/
-enclosure:
-  - |
-    |
-        http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-005.mp3
-        35349234
-        audio/mpeg
-        
+podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-005.mp3
+podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-005.zip
 dsq_thread_id:
   - 1014191258
 categories:
@@ -35,24 +30,3 @@ Neste episódio eu e Leonel discutimos os vários eventos de desenvolvimento que
   * Palpites sobre o que seria anunciado no evento da Apple em que o iPhone 4S foi anunciado
 
 A idéia era falar do Windows 8 também, mas como acabou ficando extenso, decidimos adiar para o próximo episódio.
-
-<div>
-  <p>
-    <a class="wpaudio" href="http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-005.mp3">Clique aqui para ouvir.</a>
-  </p>
-  
-  <div>
-    <ul>
-      <li>
-        Veja <a title="TPodcast" href="http://www.ericksasse.com.br/tpodcast/">aqui </a>como assinar no iTunes e outros aplicativos.
-      </li>
-      <li>
-        Versão zip, disponível <a href="http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-005.zip">aqui</a>.
-      </li>
-    </ul>
-    
-    <p>
-      E como sempre, aguardamos comentários!
-    </p>
-  </div>
-</div>

@@ -3,13 +3,8 @@ title: 'TPodcast 7 &#8211; Entrevista com Presidente da Embarcadero do Brasil'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-07-entrevista-com-presidente-da-embarcadero-do-brasil/
-enclosure:
-  - |
-    |
-        http://www.ericksasse.com.br/wp-content/uploads/2011/12/TPodcast-007.mp3
-        28537335
-        audio/mpeg
-        
+podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-007.mp3
+podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-007.zip
 dsq_thread_id:
   - 1014148362
 categories:
@@ -28,22 +23,3 @@ Neste episódio recebemos José Eugênio Braga, presidente da Embarcadero do Bra
   * Pirataria
   * Grupo <a href="https://groups.google.com/group/certificacao-delphi" target="_blank">Delphi Certificação</a>
   * Portal da Embarcadero do Brasil
-
-[Clique aqui para ouvir.][1]{.wpaudio}
-
-<div>
-  <ul>
-    <li>
-      Veja <a title="TPodcast" href="http://www.ericksasse.com.br/tpodcast/">aqui </a>como assinar no iTunes e outros aplicativos.
-    </li>
-    <li>
-      Versão zip, disponível <a href="http://www.ericksasse.com.br/wp-content/uploads/2011/12/TPodcast-007.zip">aqui</a>.
-    </li>
-  </ul>
-  
-  <p>
-    E como sempre, aguardamos comentários e <a href="http://goo.gl/mod/k59S" target="_blank">sugestões para os novos episódios</a>!
-  </p>
-</div>
-
- [1]: http://www.ericksasse.com.br/wp-content/uploads/2011/12/TPodcast-007.mp3

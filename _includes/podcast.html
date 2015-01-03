@@ -1,0 +1,9 @@
+  {% if page.podcast_zip %}
+  <p>Baixe a <a href="{{ page.podcast_zip }}">versão zip</a> ou ouça abaixo:</p>
+  {% endif %}
+
+  {% if page.podcast_audio %}
+  <audio controls="controls">
+    <source src="{{ page.podcast_audio }}"/>
+  <audio/>
+  {% endif %}

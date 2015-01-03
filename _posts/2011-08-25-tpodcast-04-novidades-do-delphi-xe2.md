@@ -3,13 +3,8 @@ title: 'TPodcast 4 &#8211; Novidades do Delphi XE2'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-04-novidades-do-delphi-xe2/
-enclosure:
-  - |
-    |
-        http://www.ericksasse.com.br/wp-content/uploads/2011/08/TPodcast-004.mp3
-        24631506
-        audio/mpeg
-        
+podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-004.mp3
+podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-004.zip
 dsq_thread_id:
   - 1014147654
 categories:
@@ -34,16 +29,7 @@ Neste episódio:
   * [Documentation Insight][2]
   * Blog [Delphi for Mac][3]
 
-[Clique aqui para ouvir.][4]{.wpaudio}
-
-  * Veja [aqui ][5]como assinar no iTunes e outros aplicativos.
-  * Versão zip, disponível [aqui][6].
-
-E como sempre, aguardamos comentários!
-
  [1]: http://www.apple.com/br/macosx/
  [2]: http://www.devjet.net/products/documentation-insight/
  [3]: http://www.delphiformac.com/
- [4]: http://www.ericksasse.com.br/wp-content/uploads/2011/08/TPodcast-004.mp3
  [5]: http://www.ericksasse.com.br/tpodcast/ "TPodcast"
- [6]: http://www.ericksasse.com.br/wp-content/uploads/2011/08/TPodcast-004.zip

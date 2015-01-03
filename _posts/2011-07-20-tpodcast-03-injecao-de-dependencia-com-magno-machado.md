@@ -3,13 +3,8 @@ title: 'TPodcast 3 &#8211; Injeção de Dependência com Magno Machado'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-03-injecao-de-dependencia-com-magno-machado/
-enclosure:
-  - |
-    |
-        http://www.ericksasse.com.br/wp-content/uploads/2011/07/TPodcast-003.mp3
-        14222859
-        audio/mpeg
-        
+podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-003.mp3
+podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-003.zip
 dsq_thread_id:
   - 1014141794
 categories:
@@ -34,13 +29,6 @@ Comentamos vários assuntos como:
   * [Service Locator][14]
   * [GWT][15] &#8211; Google Web Toolkit
 
-[Clique aqui para ouvir][16]{.wpaudio}.
-
-  * Veja [aqui ][17]como assinar no iTunes e outros aplicativos.
-  * Versão zip, disponível [aqui][18].
-
-E como sempre, mandem feedback!
-
 Sobre a qualidade do áudio e edição, ainda estou aprendendo e fazendo experimentações para achar as ferramentas e plataforma que me sinto mais confortável e que eu consiga produzir algo de mais qualidade. Por [problema de BIOS][19], esse episódio saiu em mono, mas os próximos pretendo produzir em estéreo. Isso vai deixar ele com o dobro de tamanho, mas deve melhorar bem a qualidade, principalmente agora que temos um super jingle de abertura e encerramento.
 
  [1]: http://blog.magnomachado.com.br/
@@ -58,7 +46,5 @@ Sobre a qualidade do áudio e edição, ainda estou aprendendo e fazendo experim
  [13]: http://pt.wikipedia.org/wiki/Invers%C3%A3o_de_controle
  [14]: http://en.wikipedia.org/wiki/Service_locator_pattern
  [15]: http://code.google.com/webtoolkit/
- [16]: http://www.ericksasse.com.br/wp-content/uploads/2011/07/TPodcast-003.mp3
  [17]: http://www.ericksasse.com.br/tpodcast/ "TPodcast"
- [18]: http://www.ericksasse.com.br/wp-content/uploads/2011/07/TPodcast-003.zip
  [19]: http://nadanormais.wordpress.com/2007/06/07/problemas-com-bios-burro-ignorante-operando-sistema/

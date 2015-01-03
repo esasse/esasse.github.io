@@ -3,13 +3,8 @@ title: 'TPodcast 6 &#8211; Windows 8'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-06-windows-8/
-enclosure:
-  - |
-    |
-        http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-006.mp3
-        50804529
-        audio/mpeg
-        
+podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-006.mp3
+podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-006.zip
 dsq_thread_id:
   - 1014191157
 categories:
@@ -29,27 +24,9 @@ Neste episódio eu, Erick Sasse, e Leonel Togniolli discutimos os seguintes assu
   * Novidades do iPhone 4S
   * Novidades do iOS 5
 
-[Clique aqui para ouvir.][7]{.wpaudio}
-
-<div>
-  <ul>
-    <li>
-      Veja <a title="TPodcast" href="http://www.ericksasse.com.br/tpodcast/">aqui </a>como assinar no iTunes e outros aplicativos.
-    </li>
-    <li>
-      Versão zip, disponível <a href="http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-006.zip">aqui</a>.
-    </li>
-  </ul>
-  
-  <p>
-    E como sempre, aguardamos comentários!
-  </p>
-</div>
-
  [1]: http://www.buildwindows.com
  [2]: http://community.devexpress.com/blogs/ctodx/archive/2011/09/19/delphi-vcl-is-dead-long-live-firemonkey.aspx
  [3]: https://plus.google.com/106852756908558027053/posts/DMiXQqigCN4
  [4]: http://www.dartlang.org/
  [5]: http://golang.org/
  [6]: http://jashkenas.github.com/coffee-script/
- [7]: http://www.ericksasse.com.br/wp-content/uploads/2011/10/TPodcast-006.mp3
