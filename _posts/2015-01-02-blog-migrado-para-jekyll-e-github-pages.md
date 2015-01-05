@@ -10,9 +10,9 @@ Alguns dias atrás fui atualizar a versão do WordPress e decidi mexer um pouco 
 
 E para minha própria surpresa, a experiência desta vez foi tão boa e fácil que "vingou" rápido. O blog agora está hospedado no [GitHub Pages](https://pages.github.com/) usando [Jekyll](http://jekyllrb.com/) como ferramenta de "geração". E estou MUITO satisfeito com a decisão.
 
-O [Jekyll](http://jekyllrb.com/) é uma ferramenta escrita em Ruby que converte arquivos texto em páginas HTML estáticas. Nada de banco de dados, nada de updates para instalar e aliado ao [GitHub Pages](https://pages.github.com/), que hospeda gratuitamente, nada mais de empresa de hospedagem para se preocupar! 
+[Jekyll](http://jekyllrb.com/) é uma ferramenta escrita em Ruby que converte arquivos texto em páginas HTML estáticas. Nada de banco de dados, nada de updates para instalar e aliado ao [GitHub Pages](https://pages.github.com/), que hospeda gratuitamente, nada mais de empresa de hospedagem para se preocupar! 
 
-Já parece bom demais para ser verdade, mas ainda tem outra vantagem excelente: todo o conteúdo do site fica num [repositório do GitHub](https://github.com/esasse/esasse.github.io) e para atualizar o site basta um commit e push e você ainda te todo controle de versão, integração contínua, etc. Difícil encontrar uma forma melhor do que essa para um programador manter um blog. 
+Já parece bom demais para ser verdade, mas ainda tem outra vantagem excelente: todo o conteúdo do site fica num [repositório do GitHub](https://github.com/esasse/esasse.github.io) e para atualizar o site basta um commit e push. Você ainda tem todo controle de versão, integração contínua, etc. Difícil encontrar uma forma melhor do que essa para um programador manter um blog. 
 
 Ainda tem algumas coisas para acertar, mas recomendo muito essa combinação para qualquer programador que quiser manter um blog e estou pensando seriamente em usar até para mais coisas.
 
