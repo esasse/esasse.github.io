@@ -1,12 +1,14 @@
-# Site settings
 title: Erick Sasse
 email: esasse@gmail.com
-description: >
-  Desenvolvimento de software, tecnologia e afins
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ericksasse.com.br" # the base hostname & protocol for your site
+description: Desenvolvimento de software, tecnologia e afins
+url: http://ericksasse.com.br
 twitter_username: esasse
+
+# GitHub
 github_username:  esasse
+github_repo_url: https://github.com/esasse/esasse.github.io/
+github_repo_branch: master
+
 highlighter: pygments
 defaults:
   -
