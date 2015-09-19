@@ -20,3 +20,4 @@ defaults:
       author: "Erick Sasse"
 gems:
   - jekyll-sitemap
+  - jekyll-feed
