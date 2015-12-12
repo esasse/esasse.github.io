@@ -21,3 +21,5 @@ defaults:
 gems:
   - jekyll-sitemap
   - jekyll-feed
+
+exclude: [vendor]
