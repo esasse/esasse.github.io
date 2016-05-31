@@ -4,8 +4,6 @@ author: Erick Sasse
 layout: page
 permalink: /sobre/
 ---
-[<img src="http://farm1.staticflickr.com/2/1683481_8bb2a4856e_m.jpg" width="240" height="160" alt="Baiacu Assustado" />][1]
-
 Sou desenvolvedor de software desde 1991. Comecei com Basic no [MSX][2], depois dBase, Clipper, Delphi (que ainda é minha ferramenta principal), PHP, C#, etc. Me aventuro por muitas tecnologias.
 
 Antes da Internet, fui um ávido frequentador de BBS, principalmente STI de São Paulo e MPC de Campinas. E acabei sendo um dos beta testers da Internet brasileira em 1995, quando a Embratel trouxe a rede comercialmente para o Brasil.
@@ -18,7 +16,6 @@ Estudei no [Polivalente][5] e [UNISAL][6]. Fiz pós da FGV no Business Institute
 
 Já saltei de para-quedas duas vezes em Piracicaba, mas agora estou começando a praticar mergulho autônomo. Essa foto ai em cima sou eu segurando um baiacu no meu primeiro mergulho.
 
- [1]: http://www.flickr.com/photos/esasse/1683481/ "Baiacu Assustado por Erick Sasse, no Flickr"
  [2]: /wp-content/uploads/2005/02/expertplus_fev90.jpg
  [3]: http://www.cadena.com.br
  [4]: http://www.americana.sp.gov.br
