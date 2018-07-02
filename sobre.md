@@ -14,7 +14,7 @@ Nasci e vivo em [Americana, SP][4], a 120Km de São Paulo, SP. Tenho uma famíli
 
 Estudei no [Polivalente][5] e [UNISAL][6]. Fiz pós da FGV no Business Institute de Campinas (turma TIGEN 3), e extensão na [Ohio University, EUA][7].
 
-Já saltei de para-quedas duas vezes em Piracicaba, mas agora estou começando a praticar mergulho autônomo. Essa foto ai em cima sou eu segurando um baiacu no meu primeiro mergulho.
+Já saltei de para-quedas duas vezes em Piracicaba, mas deixei de lado para ser mergulhador.
 
  [2]: /wp-content/uploads/2005/02/expertplus_fev90.jpg
  [3]: http://www.cadena.com.br
