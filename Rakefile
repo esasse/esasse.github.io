@@ -1,4 +1,4 @@
-require "html/proofer"
+require "html-proofer"
 
 task default: "test"
 
