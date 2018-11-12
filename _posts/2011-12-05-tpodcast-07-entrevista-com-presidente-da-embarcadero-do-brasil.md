@@ -3,8 +3,7 @@ title: 'TPodcast 7 &#8211; Entrevista com Presidente da Embarcadero do Brasil'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-07-entrevista-com-presidente-da-embarcadero-do-brasil/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-007.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-007.zip
+podcast_audio: /tpodcast/TPodcast-007.mp3
 dsq_thread_id:
   - 1014148362
 categories:

@@ -3,8 +3,7 @@ title: 'TPodcast 5 &#8211; O Mês dos Eventos'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-05-o-mes-dos-eventos/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-005.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-005.zip
+podcast_audio: /tpodcast/TPodcast-005.mp3
 dsq_thread_id:
   - 1014191258
 categories:

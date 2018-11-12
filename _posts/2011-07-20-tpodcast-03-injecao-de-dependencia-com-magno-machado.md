@@ -3,8 +3,7 @@ title: 'TPodcast 3 &#8211; Injeção de Dependência com Magno Machado'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-03-injecao-de-dependencia-com-magno-machado/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-003.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-003.zip
+podcast_audio: /tpodcast/TPodcast-003.mp3
 dsq_thread_id:
   - 1014141794
 categories:

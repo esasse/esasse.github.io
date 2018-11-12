@@ -3,8 +3,7 @@ title: 'TPodcast 4 &#8211; Novidades do Delphi XE2'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-04-novidades-do-delphi-xe2/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-004.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-004.zip
+podcast_audio: /tpodcast/TPodcast-004.mp3
 dsq_thread_id:
   - 1014147654
 categories:

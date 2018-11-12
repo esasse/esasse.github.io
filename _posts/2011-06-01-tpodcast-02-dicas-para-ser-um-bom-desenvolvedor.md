@@ -3,8 +3,7 @@ title: 'TPodcast 2 &#8211; Dicas Para Ser Um Bom Desenvolvedor'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-02-dicas-para-ser-um-bom-desenvolvedor/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-002.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-002.zip        
+podcast_audio: /tpodcast/TPodcast-002.mp3
 dsq_thread_id:
   - 320010704
 categories:

@@ -5,8 +5,7 @@ layout: post
 permalink: /podcast-piloto-social-coding-e-dvcs/
 dsq_thread_id:
   - 300534753
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-001.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-001.zip
+podcast_audio: /tpodcast/TPodcast-001.mp3
 categories:
   - TPodcast
 ---

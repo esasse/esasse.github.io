@@ -3,8 +3,7 @@ title: 'TPodcast 6 &#8211; Windows 8'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-06-windows-8/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-006.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-006.zip
+podcast_audio: /tpodcast/TPodcast-006.mp3
 dsq_thread_id:
   - 1014191157
 categories:

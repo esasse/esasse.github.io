@@ -1,8 +1,7 @@
 ---
 title: 'TPodcast 9 &#8211; Podcast.Free;'
 permalink: /tpodcast-9-podcast-free/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-009.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-009.zip
+podcast_audio: /tpodcast/TPodcast-009.mp3
 dsq_thread_id:
   - 1013584044
 categories:

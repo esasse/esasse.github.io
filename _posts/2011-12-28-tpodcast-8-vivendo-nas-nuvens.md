@@ -3,8 +3,7 @@ title: 'TPodcast 8 &#8211; Vivendo nas Nuvens'
 author: Erick Sasse
 layout: post
 permalink: /tpodcast-8-vivendo-nas-nuvens/
-podcast_audio: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-008.mp3
-podcast_zip: https://dl.dropboxusercontent.com/u/31010/ericksasse.com.br/podcast/TPodcast-008.zip
+podcast_audio: /tpodcast/TPodcast-008.mp3
 dsq_thread_id:
   - 1014149299
 categories:
