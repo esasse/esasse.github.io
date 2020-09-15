@@ -1,11 +1,6 @@
 title: Erick Sasse
 url: http://ericksasse.com
 
-# GitHub
-github_username:  esasse
-github_repo_url: https://github.com/esasse/esasse.github.io/
-github_repo_branch: master
-
 highlighter: rouge
 defaults:
   -
