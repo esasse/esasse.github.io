@@ -15,4 +15,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+theme: minima
+
+minima:
+  skin: auto
+
 exclude: [vendor]
